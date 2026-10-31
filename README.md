@@ -8,7 +8,8 @@ A traffic-light controller for vehicles and pedestrians, with a two-digit seven-
 - `bcd_to_7seg.vhd`: active-high BCD-to-seven-segment decoder; inputs 10–15 blank the display.
 - `traffic_light_system.vhd`: top-level integration of the controller and two decoders.
 - `*_tb.vhd`: simulation testbenches for each module.
-- `ode_domaci_izvestaj_0021_2024_0105_2024.docx.pdf`: original project report in Serbian.
+- [English project report](ode_domaci_izvestaj_0021_2024_0105_2024_EN.pdf): translated report preserving the original layout and figures.
+- [Original Serbian report](ode_domaci_izvestaj_0021_2024_0105_2024.docx.pdf).
 
 ## Traffic-light sequence
 
