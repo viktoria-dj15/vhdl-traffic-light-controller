@@ -1,0 +1,5 @@
+.DS_Store
+work-obj*.cf
+*.vcd
+*.ghw
+romFile.txt
